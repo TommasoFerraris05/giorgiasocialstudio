@@ -113,3 +113,4 @@ Giorgia-Social-Studio-GitHub/
 - Verifica legale/GDPR e approvazione dei diritti sulle immagini: competono alla titolare prima della pubblicazione.
 
 © Giorgia Social Studio. Sito realizzato per uso del brand su materiali forniti dal committente.
+<!-- Nuova pubblicazione del sito -->
